@@ -8,4 +8,4 @@
 commit
 
 直接在服务器上修改，这样在本地怎么获得呢？
-fetch？
+git pull 
